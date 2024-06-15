@@ -1,5 +1,4 @@
-# 3rd-module
-#MyToken
+# MyToken
 So, in this project what we have done is firstly we have imported openzeppelin library from both “ERC20”token and “Ownable” Contract.
 After this we have our Contract as MyToken inherits from both “ERC20”and “Ownable” .
 Then we are having a constructor which is initialling “ERC20” token name as “MyToken” and symbol “MTK”. 
